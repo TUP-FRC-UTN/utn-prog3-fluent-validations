@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|c:\\users\\fabio\\onedrive\\escritorio\\utn-prog3-validations\\validators\\updatepersondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|solutionrelative:validators\\updatepersondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|c:\\users\\fabio\\onedrive\\escritorio\\utn-prog3-validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|c:\\users\\fabio\\onedrive\\escritorio\\utn-prog3-validations\\domain\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|solutionrelative:domain\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|c:\\users\\fabio\\onedrive\\escritorio\\utn-prog3-validations\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|c:\\users\\fabio\\onedrive\\escritorio\\utn-prog3-validations\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6471F-4DA4-4E9E-B9E8-93F257E880E2}|PersonsApi.csproj|solutionrelative:dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePersonDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Validators\\UpdatePersonDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\UpdatePersonDtoValidator.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Validators\\UpdatePersonDtoValidator.cs",
+              "RelativeToolTip": "Validators\\UpdatePersonDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:06.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Domain\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Person.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Domain\\Person.cs",
+              "RelativeToolTip": "Domain\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Dto\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Dto\\PersonDto.cs",
+              "RelativeToolTip": "Dto\\PersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Escritorio\\utn-prog3-validations\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:17:06.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
